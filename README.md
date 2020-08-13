@@ -14,7 +14,7 @@ User-defined types can be made available to Lua as well: their exported methods
 can be called and usual operations such as indexing or arithmetic can be
 performed.
 
-See the [documentation](http://godoc.org/github.com/stevedonovan/luar) for usage
+See the [documentation](http://godoc.org/github.com/nwidger/luar) for usage
 instructions and examples.
 
 # Installation
@@ -23,7 +23,7 @@ Install with
 
     go get <repo>/luar
 
-Luar uses Alessandro Arzilli's [golua](https://github.com/aarzilli/golua).
+Luar uses Alessandro Arzilli's [golua](https://github.com/nwidger/golua).
 See golua's homepage for further installation details.
 
 # REPL

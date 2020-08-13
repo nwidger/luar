@@ -9,7 +9,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/aarzilli/golua/lua"
+	"github.com/nwidger/golua/lua"
 )
 
 type luaTestData struct {

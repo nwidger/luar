@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/aarzilli/golua/lua"
-	"github.com/stevedonovan/luar"
+	"github.com/nwidger/golua/lua"
+	"github.com/nwidger/luar"
 )
 
 func Example() {
